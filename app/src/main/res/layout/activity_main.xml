@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/ly_top_bar"
+        android:background="#e153bbe9"
+        android:layout_width="match_parent"
+        android:layout_height="48dp">
+        <TextView
+            android:id="@+id/text_top_bar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textColor="#000000"
+        android:textSize="13sp"
+        android:drawablePadding="3dp"
+        android:gravity="center"
+        android:padding="5dp"
+        android:layout_below="@id/ly_top_bar"
+        android:id="@+id/tv"/>
+
+
+    <FrameLayout
+        android:background="@drawable/karr"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/div_top_bar"
+
+        android:id="@+id/ly_content">
+    </FrameLayout>
+    <View
+        android:id="@+id/div_top_bar"
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#000000"
+        android:layout_below="@id/ly_top_bar"/>
+
+    <LinearLayout
+        android:id="@+id/ly_tab_bar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="#e153BBE9"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+
+
+
+
+
+        <TextView
+            android:id="@+id/text_1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="王"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:drawablePadding="3dp"
+            android:gravity="center"
+            android:padding="5dp" />
+        <TextView
+            android:id="@+id/text_2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="俊"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:drawablePadding="3dp"
+            android:gravity="center"
+            android:padding="5dp" />
+        <TextView
+            android:id="@+id/text_3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="凯"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:drawablePadding="3dp"
+            android:gravity="center"
+            android:padding="5dp" />
+    </LinearLayout>
+
+
+</RelativeLayout>
