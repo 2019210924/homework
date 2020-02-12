@@ -15,9 +15,7 @@ redrock winter vacation homework
 
 * 滚动条√
 
-  
-
-<img src="C:\Users\86153\Desktop\Screenshot_20200208_115828_com.example.robotkarry.jpg" alt="Screenshot_20200208_115828_com.example.robotkarry" style="zoom:33%;" />
+photo/Screenshot_20200208_115539_com.example.robotkarry.jpg
 
 ### 1.2 主要功能页面🤫
 
