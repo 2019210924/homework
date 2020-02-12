@@ -15,7 +15,7 @@ redrock winter vacation homework
 
 * 滚动条√
 
-![](photo/Screenshot_20200208_115539_com.example.robotkarry.jpg)
+![image](https://github.com/2019210924/homework/blob/master/photo/Screenshot_20200208_115539_com.example.robotkarry.jpg)
 ### 1.2 主要功能页面🤫
 
 
