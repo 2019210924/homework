@@ -23,7 +23,7 @@ redrock winter vacation homework
 
 
 
-<img src="C:\Users\86153\Desktop\Screenshot_20200208_115539_com.example.robotkarry.jpg" alt="Screenshot_20200208_115539_com.example.robotkarry" style="zoom:33%;" />
+<img src="C:\Users\86153\Desktop\Screenshot_20200208_115539_com.example.robotkarry.jpg" alt="photo/Screenshot_20200208_115539_com.example.robotkarry" style="zoom:33%;" />
 
 #### 1.2.1  可以对话的图灵机器人🤔
 
