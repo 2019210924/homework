@@ -11,6 +11,6 @@
             android:gravity="center"
             android:keepScreenOn="true"
             android:scaleType="fitXY"
-            android:src="@drawable/j" />
+            android:src="@drawable/splash" />
 
 </FrameLayout>

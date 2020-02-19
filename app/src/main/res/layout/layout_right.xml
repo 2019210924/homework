@@ -44,7 +44,8 @@
                 android:id="@+id/chat_right_image"
                 android:layout_width="75dp"
                 android:layout_height="75dp"
-                android:src="@drawable/wdl" />
+                android:background="@drawable/ex"
+                 />
 
             <TextView
                 android:id="@+id/chat_right_name"

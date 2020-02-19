@@ -8,12 +8,14 @@
     android:layout_marginLeft="10dp"
     android:layout_marginTop="10dp"
     app:contentPadding="10dp"
-    app:cardCornerRadius="10dp"
+    app:cardCornerRadius="15dp"
     app:cardElevation="1dp"
-    app:cardBackgroundColor="#8065A2D3">
+    app:cardBackgroundColor="#FFF">
    <RelativeLayout
        android:layout_width="match_parent"
-       android:layout_height="wrap_content">
+       android:layout_height="wrap_content"
+       android:background="#F2F9FD"
+       >
        <TextView
            android:id="@+id/item_local_music_num"
            android:layout_width="wrap_content"
@@ -48,7 +50,7 @@
            android:id="@+id/item_local_music_line"
            android:layout_width="2dp"
            android:layout_height="18dp"
-           android:background="#055A80"
+           android:textColor="#055A80"
            android:layout_toRightOf="@id/item_local_music_singer"
            android:layout_marginLeft="10dp"
            android:layout_marginRight="10dp"

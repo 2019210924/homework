@@ -3,7 +3,7 @@ redrock winter vacation homework
 
 
 
-# 关于Robby Karry✍
+# 关于homework✍
 
 ### 这是一个包含图灵机器人，音乐播放器，记事本等的奇怪app🤭，bug较多，UI不美，不喜勿喷。。。
 
@@ -11,14 +11,9 @@ redrock winter vacation homework
 
 ## 1.功能简介😁
 
-### 1.1  简单文字介绍
+### 1.1 chat
 
-* 滚动条√
-(fragment_my.xml)
-### 1.2 主要功能页面🤫
-(fragment_karry.xml)
-
-#### 1.2.1  可以对话的图灵机器人🤔
+#### 1.1.1  可以对话的图灵机器人🤔
 
 * ##### 小凯机器人哇咔咔
 
@@ -29,10 +24,20 @@ redrock winter vacation homework
 * 消息传递 √
 
 * 适配器 √
-(chat包下）
+(聊天）
 
+#### 1.1.2 简介
 
-#### 1.2.2 音乐播放器🎵
+* 滚动条√
+
+（关于图灵机器人）
+
+#### 1.2.3 图灵官网
+
+* WebView √
+  
+
+### 1.2 音乐播放器🎵
 
 * ##### 一个没有进度条的本地音乐播放器😔
 
@@ -47,27 +52,13 @@ redrock winter vacation homework
 （music包下）
 
 
-#### 1.2.3 小凯微博
-
-* WebView √
-（KaActivity.java）
 
 
-#### 1.2.4 小凯生日
-一个toast
-
-
-#### 1.2.5备忘录✍
+### 1.3备忘录✍
 
 * 数据库 √
 
 （note包下）
-
-
-### 1.3 一堆（1、2、3、4个）toast 😵
-
-* toast √
-（fragment_demo.xml）
 
 ## 2. 关于我
 

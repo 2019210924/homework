@@ -22,7 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:gravity="center"
-            android:text="心情日记 🌈"
+            android:text="编辑日记 🌈"
             android:textColor="@android:color/white"
             android:textSize="15sp"
             android:textStyle="bold"/>
